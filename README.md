@@ -5,6 +5,9 @@
 ----
 ## If we are providing arguments to a function instead of a list or tuple we use the concept of *
 So whenever we do not specify the contents into tuple , list , dictionary and just initialize it as just arguments, we use to concept of * , when we apply * in front of any name , it converts the items in that name into tuple and thus the loop iterates through each element in it 
+*args allows you to pass any number of positional arguments to a function.
+The arguments are collected into a tuple.
+You can iterate through *args to access each argument.
 
 ![Image](https://github.com/user-attachments/assets/8ec1888e-2809-4f25-bd39-127f3f7014a5)
 ----
