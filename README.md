@@ -10,4 +10,5 @@ So whenever we do not specify the contents into tuple , list , dictionary and ju
 ----
 You can use *args along with other fixed arguments:
 ![Image](https://github.com/user-attachments/assets/dd8ff6bc-744d-405b-8f40-d0d77e15012f)
+![Image](https://github.com/user-attachments/assets/4dc89efa-20aa-42e2-8cd8-1df88c8e9638)
 
