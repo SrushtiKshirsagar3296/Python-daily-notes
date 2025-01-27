@@ -14,4 +14,7 @@ You can iterate through *args to access each argument.
 You can use *args along with other fixed arguments:
 ![Image](https://github.com/user-attachments/assets/dd8ff6bc-744d-405b-8f40-d0d77e15012f)
 ![Image](https://github.com/user-attachments/assets/4dc89efa-20aa-42e2-8cd8-1df88c8e9638)
+---
+If we don't want to use function we can use a new concept known as lambda
+![Image](https://github.com/user-attachments/assets/b88c5959-a49e-477b-9f6a-3ac0c12f4d2d)
 
