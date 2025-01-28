@@ -18,3 +18,8 @@ You can use *args along with other fixed arguments:
 If we don't want to use function we can use a new concept known as lambda
 ![Image](https://github.com/user-attachments/assets/b88c5959-a49e-477b-9f6a-3ac0c12f4d2d)
 
+| Tuple | List |
+|------------------|------------------|
+| (1,2,3)   | [1,2,3]    |
+|These are immutable , ie we cannot add any element in the tuple   | We can append or add in the list        |
+
