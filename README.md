@@ -26,4 +26,5 @@ If we don't want to use function we can use a new concept known as lambda
 ![Image](https://github.com/user-attachments/assets/f7e870d7-cdd0-4fab-9614-ae6827d88c59)
 
 This is the diagram of stack memory allocation and Hash map , to retrieve any data from the stack we need to go through each element in stack memeory location which would be very lenthly process if we have large data set , but if we use hash map , in hash map a data is alllocated to some memory location , thus the data can be quickly accesed as compared to stack memory location . 
+![Image](https://github.com/user-attachments/assets/2bdf3f5a-b102-42ba-bd10-fcde984c5d88)
 
