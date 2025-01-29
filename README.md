@@ -34,4 +34,9 @@ Dictionary consists of keys and values
 
 ![Image](https://github.com/user-attachments/assets/a16b9d6b-025b-4c8e-9bf2-d4a8954605b1)
 
+------
+
+![Image](https://github.com/user-attachments/assets/9e985ce9-c4ba-49fa-afe0-8cca99231cbf)
+![Image](https://github.com/user-attachments/assets/29cb9a37-3269-45ab-b271-972d2ed9de3e)
+
 
