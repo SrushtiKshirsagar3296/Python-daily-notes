@@ -38,5 +38,6 @@ Dictionary consists of keys and values
 
 ![Image](https://github.com/user-attachments/assets/9e985ce9-c4ba-49fa-afe0-8cca99231cbf)
 ![Image](https://github.com/user-attachments/assets/29cb9a37-3269-45ab-b271-972d2ed9de3e)
+![Image](https://github.com/user-attachments/assets/a6976f37-4e72-48ec-adfe-ea8bc4c0d321)
 
 
