@@ -1,0 +1,10 @@
+ex:print(1+2) ; O/P = 3
+ex:print("1"+"2") ; O/P = 1 2
+contructor uses various methods such as init , add
+the same code we can write as follows by using add method ( which tells us the working of + operator)
+
+ex: print(int.__add__(1,2))  ; O/P = 3
+ex: print(str.__add__("1","2"))  ; O/P = 1 2
+-----
+#Addition of Complex Numbers
+![Image](https://github.com/user-attachments/assets/4bc0a4cd-67dc-47ad-8521-eaee2e664cbb)
