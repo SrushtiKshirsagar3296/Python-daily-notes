@@ -68,24 +68,7 @@ def __init__(self):
 #INHERITANCE
 -----
 *basic example*
-class Animal:
-    def __init__(self, name):
-        self.name = name
-
-    def speak(self):
-        return "Animal sound"
-
-
-class Dog(Animal):
-    def speak(self):
-        return "Woof!"
-
-
-a = Animal("Some Animal")
-d = Dog("Buddy")
-
-print(a.name, "says:", a.speak())  # Output: Some Animal says: Animal sound
-print(d.name, "says:", d.speak())  # Output: Buddy says: Woof!
+![Image](https://github.com/user-attachments/assets/53f7f462-e1b8-46e9-a999-9e3a3ec4a98c)
 -----
 ##Super Function##
 _super fucntion allows us to access parent class attributes_
