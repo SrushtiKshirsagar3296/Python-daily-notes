@@ -59,5 +59,41 @@ __Addition of Complex Numbers__
 
 __Age Comparison example using :>" operator__
 ![Image](https://github.com/user-attachments/assets/8ea6b16f-cadd-4c02-9333-95bb6abc6942)
+
+__here we are passing parameters , but if we dont want to pass parameters in the defination function
+def __init__(self):
+  self.num=2
+  self.eyes=
+------
+#INHERITANCE
+-----
+*basic example*
+class Animal:
+    def __init__(self, name):
+        self.name = name
+
+    def speak(self):
+        return "Animal sound"
+
+# Child class (inherits from Animal)
+class Dog(Animal):
+    def speak(self):
+        return "Woof!"
+
+# Creating objects
+a = Animal("Some Animal")
+d = Dog("Buddy")
+
+print(a.name, "says:", a.speak())  # Output: Some Animal says: Animal sound
+print(d.name, "says:", d.speak())  # Output: Buddy says: Woof!
+-----
+##Super Function##
+_super fucntion allows us to access parent class attributes_
+
+![Image](https://github.com/user-attachments/assets/49e556fa-165a-4f0d-9e03-d3acc4554ead)
+
+![Image](https://github.com/user-attachments/assets/96a411db-f818-4297-bba2-da270cbf024c)
+
+![Image](https://github.com/user-attachments/assets/b28b3de8-c510-408b-8d0d-3dfd2f68bfa7)
  
 
