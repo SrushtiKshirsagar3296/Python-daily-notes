@@ -79,10 +79,15 @@ _super fucntion allows us to access parent class attributes_
 
 ![Image](https://github.com/user-attachments/assets/b28b3de8-c510-408b-8d0d-3dfd2f68bfa7)
 
+
 ![Image](https://github.com/user-attachments/assets/07ead313-363a-40eb-aae1-370b87ba08d2)
 
 ![Image](https://github.com/user-attachments/assets/b6dd2609-052d-4565-b84b-73537c862bb8)
 
 ![Image](https://github.com/user-attachments/assets/e20ad605-4619-44dd-93d2-b92ff9379963)
+
+------
+#EXCEPTION HANDLING
+![Image](https://github.com/user-attachments/assets/1d263e48-8ada-4825-9755-9100e097551a)
  
 
