@@ -52,11 +52,11 @@ the same code we can write as follows by using add method ( which tells us the w
 <br>ex: print(int.__add__(1,2))  ; O/P = 3
 <br>ex: print(str.__add__("1","2"))  ; O/P = 1 2
 -----
-**Addition of Complex Numbers**
+__Addition of Complex Numbers__
 ![Image](https://github.com/user-attachments/assets/4bc0a4cd-67dc-47ad-8521-eaee2e664cbb)
- *or we can use ( return str(self.real+other.real) + "+" + str(self.imag+other.imag)+"i"
+ _or we can use ( return str(self.real+other.real) + "+" + str(self.imag+other.imag)+"i"_
 
-**Age Comparison example using :>" operator **
+__Age Comparison example using :>" operator__
 ![Image](https://github.com/user-attachments/assets/8ea6b16f-cadd-4c02-9333-95bb6abc6942)
  
 
