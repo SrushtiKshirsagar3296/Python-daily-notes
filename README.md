@@ -25,7 +25,7 @@ If we don't want to use function we can use a new concept known as lambda
 -------------
 ![Image](https://github.com/user-attachments/assets/f7e870d7-cdd0-4fab-9614-ae6827d88c59)
 
-This is the diagram of stack memory allocation and Hash map , to retrieve any data from the stack we need to go through each element in stack memeory location which would be very lenthly process if we have large data set , but if we use hash map , in hash map a data is alllocated to some memory location , thus the data can be quickly accesed as compared to stack memory location . 
+ \, thus the data can be quickly accesed as compared to stack memory location . 
 ![Image](https://github.com/user-attachments/assets/2bdf3f5a-b102-42ba-bd10-fcde984c5d88)
 -----
 #DICTIONARY 
@@ -39,5 +39,17 @@ Dictionary consists of keys and values
 ![Image](https://github.com/user-attachments/assets/9e985ce9-c4ba-49fa-afe0-8cca99231cbf)
 ![Image](https://github.com/user-attachments/assets/29cb9a37-3269-45ab-b271-972d2ed9de3e)
 ![Image](https://github.com/user-attachments/assets/a6976f37-4e72-48ec-adfe-ea8bc4c0d321)
+
+#OPERATOR OVERLOADING 
+ex:print(1+2) ; O/P = 3
+ex:print("1"+"2") ; O/P = 1 2
+contructor uses various methods such as init , add
+the same code we can write as follows by using add method ( which tells us the working of + operator)
+
+ex: print(int.__add__(1,2))  ; O/P = 3
+ex: print(str.__add__("1","2"))  ; O/P = 1 2
+-----
+#Addition of Complex Numbers
+![Image](https://github.com/user-attachments/assets/4bc0a4cd-67dc-47ad-8521-eaee2e664cbb)
 
 
