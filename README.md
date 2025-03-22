@@ -75,12 +75,12 @@ class Animal:
     def speak(self):
         return "Animal sound"
 
-# Child class (inherits from Animal)
+
 class Dog(Animal):
     def speak(self):
         return "Woof!"
 
-# Creating objects
+
 a = Animal("Some Animal")
 d = Dog("Buddy")
 
