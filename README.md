@@ -102,6 +102,7 @@ when we are in the python page(module- the page which is supposed to get importe
 <br> it's usage is demonstarted in the below example :
 ![Image](https://github.com/user-attachments/assets/182f7011-b341-4e01-8f3c-7fe388dc3a4f)
 So the badic usage is that if a user is entering first time and he runs the demo file so he is in the main and gets the o/p = hello welcome to python , but if we are in the next file that is calculate so it does gives us the o/p = its time to calculate , so the logic behind this is it will only give the o/p of demo file if the user is accesing the file 1st time elese it will always give the o/p = its time to calculate
+![Image](https://github.com/user-attachments/assets/8dcc88a1-d0e2-40a5-8268-b65ad8ce89f9)
 
  
 
