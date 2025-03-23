@@ -91,5 +91,17 @@ _super fucntion allows us to access parent class attributes_
 ![Image](https://github.com/user-attachments/assets/1d263e48-8ada-4825-9755-9100e097551a)
 
 ![Image](https://github.com/user-attachments/assets/b02fbbf3-25ec-43b4-8255-66405af7cb18)
+
+
+#__name__ ( Special variable)
+**basic of __name__ concept)**
+![Image](https://github.com/user-attachments/assets/0caca564-b3b4-42e9-a5ef-fae6d09e2c80)
+
+![Image](https://github.com/user-attachments/assets/21e52923-9b7f-4eb7-b8b4-dda8c96bc1f0)
+when we are in the python page(module- the page which is supposed to get imported ) and we trigger __name__ , it gives us the name of the python function but when we import that module in our main python page and then if we trigger the __name__ we get the o/p as main )
+<br> it's usage is demonstarted in the below example :
+![Image](https://github.com/user-attachments/assets/182f7011-b341-4e01-8f3c-7fe388dc3a4f)
+So the badic usage is that if a user is entering first time and he runs the demo file so he is in the main and gets the o/p = hello welcome to python , but if we are in the next file that is calculate so it does gives us the o/p = its time to calculate , so the logic behind this is it will only give the o/p of demo file if the user is accesing the file 1st time elese it will always give the o/p = its time to calculate
+
  
 
